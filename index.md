@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) 
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) Yang Zhang (张扬)
+
 ## Biography
-- Yang Zhang (张扬)
 - Research and development expert@Sangfor Technologies Inc
 - PhD@Huazhong University of Science and Technology
 - Postdoc@Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
