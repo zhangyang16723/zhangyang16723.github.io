@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) Yang Zhang (张扬)
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) Yang Zhang (张扬), Huazhong University of Science and Technology
 
 ## Biography
 - Research and development expert@Sangfor Technologies Inc
