@@ -8,7 +8,7 @@ Yang Zhang is currently a research and development expert of cloud computing tec
 2. Huazhong University of Science and Technology, computer science and technology, Ph.D. degree, 2014-2019
 3. Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, postdoc, 2019-2021
 
-### Publications
+## Publications
 1. Yang Zhang, Dan Feng, Jingning Liu, Wei Tong, Bing Wu and Caihua Fang. A Novel ReRAM-based Main Memory Structure for Optimizing Access Latency and Reliability. 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC). Austin, TX, USA: ACM, June 18-22, 2017, 1-6. (中国计算机学会推荐A类国际会议，EI检索)
 2. Yang Zhang, Dan Feng, Wei Tong, Yu Hua, Jingning Liu, Zhipeng Tan, Chengning Wang, Bing Wu, Zheng Li and Gaoxiang Xu. CACF: A Novel Circuit Architecture Co-optimization Framework for Improving Performance, Reliability and Energy of ReRAM-based Main Memory System. ACM Transactions on Architecture and Code Optimization (TACO). 2018, 15(2):22-1-22-26. (中国计算机学会推荐B类国际期刊，校A刊，SCI检索)
 3. Yang Zhang, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Jie Xu. Tiered-ReRAM: A Low Latency and Energy Efficient TLC Crossbar ReRAM Architecture. 2019 35th IEEE International Conference on Massive Storage Systems and Technology (MSST). Santa Clara, CA, USA: IEEE, May 20-24, 2019. Accepted and to appear in MSST 2019. Regular Paper. (中国计算机学会推荐B类国际会议)
