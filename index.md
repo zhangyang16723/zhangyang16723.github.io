@@ -1,15 +1,11 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) Yang Zhang (张扬), Huazhong University of Science and Technology
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) Yang Zhang (张扬)
 
 ## Biography
-- Research and development expert@Sangfor Technologies Inc
-- PhD@Huazhong University of Science and Technology
-- Postdoc@Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- Research and development expert@Sangfor Technologies Inc. (2019.7-now)
+- B.E. degree@Huazhong University of Science and Technology.(2010.9-2014.6)
+- Ph.D. degree@Huazhong University of Science and Technology.(2014.9-2019.6)
+- Postdoc@Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.(2019.7-2021.12)
 - Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn
-
-## Education Experience
-1. Huazhong University of Science and Technology, computer science and technology, B.E. degree, 2010-2014
-2. Huazhong University of Science and Technology, computer science and technology, Ph.D. degree, 2014-2019
-3. Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, postdoc, 2019-2021
 
 ## Publications
 1. **Yang Zhang**, Dan Feng, Jingning Liu, Wei Tong, Bing Wu and Caihua Fang. A Novel ReRAM-based Main Memory Structure for Optimizing Access Latency and Reliability. 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC). Austin, TX, USA: ACM, June 18-22, 2017, 1-6. (中国计算机学会推荐A类国际会议，EI检索)
