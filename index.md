@@ -1,5 +1,3 @@
-_Welcome to Yang Zhang's homepage!_
-
 ![Image](https://github.com/zhangyang16723/zhangyang16723.github.io/blob/gh-pages/zy.jpg)
 
 ## Introduction
