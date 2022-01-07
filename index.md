@@ -2,9 +2,9 @@
 
 ## Biography
 - Research and development expert@Sangfor Technologies Inc. (2019.7-now)
-- B.E. degree@Huazhong University of Science and Technology.(2010.9-2014.6)
-- Ph.D. degree@Huazhong University of Science and Technology.(2014.9-2019.6)
 - Postdoc@Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.(2019.7-2021.12)
+- Ph.D. degree@Huazhong University of Science and Technology.(2014.9-2019.6)
+- B.E. degree@Huazhong University of Science and Technology.(2010.9-2014.6)
 - Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn
 
 ## Publications
