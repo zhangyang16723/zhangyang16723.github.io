@@ -1,2 +1,1 @@
-# zhangyang16723.github.io
-homepage
+# Welcome to Yang Zhang's homepage
