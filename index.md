@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) **Yang Zhang (张扬)**
-                                                                                               **Research and development expert@Sangfor Technologies Inc**
-                                                                                               **PhD@Huazhong University of Science and Technology**
-                                                                                               **postdoc@Shenzhen Institutes of Advanced Technology Chinese Academy of Sciences**
-                                                                                               **Email:youngzhang@hust.edu.cn**
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) **Yang Zhang (张扬)**\n
+                                                                                               **Research and development expert@Sangfor Technologies Inc**\n
+                                                                                               **PhD@Huazhong University of Science and Technology**\n
+                                                                                               **postdoc@Shenzhen Institutes of Advanced Technology Chinese Academy of Sciences**\n
+                                                                                               **Email:youngzhang@hust.edu.cn**\n
 ## Introduction
 Yang Zhang is currently a research and development expert of cloud computing technology in Sangfor Technologies Inc, Shenzhen, China. He received the B.E. and Ph.D. degrees in computer science and technology from Huazhong University of Science and Technology in 2014 and 2019, respectively. He was a postdoc with the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, in 2019 to 2021. His research interests include computer architecture, cloud computing, distributed storage system, Non-Volatile Memory, intelligent storage technology. His research works have been published in DAC, MSST, ICCAD, ICCD, ACM TACO, ACM TODAES, IEEE TC, IEEE TCAD, IEEE TED, FGCS and so on. 
 
