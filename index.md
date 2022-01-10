@@ -23,10 +23,9 @@
 12. Bing, Wu, Dan, Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, **Yang Zhang**. (2019). A Low Power Reconfigurable Memory Architecture for Complementary Resistive Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. PP. 1-1. 10.1109/TCAD.2019.2927520. (中国计算机学会推荐A类国际期刊，SCI检索)
 
 ## Honor
-- 2020. Excellent employees award@Sangfor Technologies Inc.
-- 2019. Outstanding PhD graduates@HUST.
-- 2019. National Optoelectronics Laboratory Scholarship@HUST.
-- 2018. Zhixing First Class Scholarship@HUST.
-- 2018. Research Star@HUST.
-- 2017. Zhixing Second Class Scholarship@HUST.
-- 
+-  2020. Excellent employees award@Sangfor Technologies Inc.
+-  2019. Outstanding PhD graduates@HUST.
+-  2019. National Optoelectronics Laboratory Scholarship@HUST.
+-  2018. Zhixing First Class Scholarship@HUST.
+-  2018. Research Star@HUST.
+-  2017. Zhixing Second Class Scholarship@HUST.
