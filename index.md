@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) `Yang Zhang (张扬), PhD in computer science and technology`
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) `Yang Zhang (张扬), PhD in computer science and technology, Huazhong University of Science and Technology(HUST)`
 
 ## Biography
 - 2019.7-now. `Research and development expert in cloud computing`@_Sangfor Technologies Inc_. 
-- 2019.7-2021.12. `Postdoc in Computer Science and Technology`@_Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences_.
-- 2014.9-2019.6. `Ph.D. degree in Computer Science and Technology`@_Huazhong University of Science and Technology_.
-- 2010.9-2014.6. `B.E. degree in Computer Science and Technology`@_Huazhong University of Science and Technology_.
+- 2019.7-2021.12. `Postdoc in Computer Science and Technology`@_SIAT, Chinese Academy of Sciences_.
+- 2014.9-2019.6. `Ph.D. degree in Computer Science and Technology`@_HUST_.
+- 2010.9-2014.6. `B.E. degree in Computer Science and Technology`@_HUST_.
 - `Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn`.
 
 ## Publications
