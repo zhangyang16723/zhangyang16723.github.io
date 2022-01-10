@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) **Yang Zhang (张扬), PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology(HUST). Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.**
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) `Yang Zhang (张扬), PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology(HUST). Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.`
 
 ## Biography
 - 2019.7-now. `Research and development expert in cloud computing`@_Sangfor Technologies Inc_. 
