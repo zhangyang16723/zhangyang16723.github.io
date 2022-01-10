@@ -21,3 +21,12 @@
 10. Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Shuai Li, Mingshun Yang, Chengning Wang, and **Yang Zhang**. Aliens: A Novel Hybrid Architecture for Resistive Random-Access Memory. 2018 37th International Conference on Computer-Aided Design (ICCAD). San Diego, CA, USA: ACM, November 05-08, 2018, 1-8. (中国计算机学会推荐B类国际会议，EI检索)
 11. Gaoxiang Xu, Zhipeng Tan, Dan Feng, Laurence T. Yang, Wei Zhou, Xinyan Zhang, **Yang Zhang** and Jie Xu. FvRS: Efficiently Identifying Performance-critical Data for Improving Performance of Big Data Processing. Future Generation Computer Systems (FGCS), 2019, 91: 157-166. (中国计算机学会推荐C类国际期刊，校A刊，SCI检索)
 12. Bing, Wu, Dan, Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, **Yang Zhang**. (2019). A Low Power Reconfigurable Memory Architecture for Complementary Resistive Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. PP. 1-1. 10.1109/TCAD.2019.2927520. (中国计算机学会推荐A类国际期刊，SCI检索)
+
+## Honor
+- 2020. Excellent employees award@Sangfor Technologies Inc.
+- 2019. Outstanding PhD graduates@HUST.
+- 2019. National Optoelectronics Laboratory Scholarship@HUST.
+- 2018. Zhixing First Class Scholarship@HUST.
+- 2018. Research Star@HUST.
+- 2017. Zhixing Second Class Scholarship@HUST.
+- 
