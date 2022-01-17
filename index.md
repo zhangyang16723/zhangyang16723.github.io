@@ -23,7 +23,7 @@
 
 ## Honor
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
-- 2020/12. Excellent employees award@Sangfor Technologies Inc.
+- 2020/12. Excellent Employees Award@Sangfor Technologies Inc.
 - 2019/06. Outstanding PhD graduates@HUST.
 - 2019/01. National Optoelectronics Laboratory Scholarship@HUST.
 - 2018/10. Zhixing First Class Scholarship@HUST.
