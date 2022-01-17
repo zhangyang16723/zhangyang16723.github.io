@@ -3,7 +3,7 @@
 ## Biography
 - 2019.7-now. `Research and development expert in cloud computing`@_Sangfor Technologies Inc_. 
 - 2019.7-2021.12. `Postdoc in Computer Science and Technology`@_SIAT, Chinese Academy of Sciences_.
-- 2014.9-2019.6. `Ph.D. degree in Computer Science and Technology`@_,武汉光电国家实验室, HUST_.
+- 2014.9-2019.6. `Ph.D. degree in Computer Science and Technology`@_武汉光电国家实验室, HUST_.
 - 2010.9-2014.6. `B.E. degree in Computer Science and Technology`@_计算机创新实验班, HUST_.
 
 ## Publications
