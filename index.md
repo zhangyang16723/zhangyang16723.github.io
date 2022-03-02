@@ -22,6 +22,7 @@
 12. Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, **Yang Zhang**. (2019). A Low Power Reconfigurable Memory Architecture for Complementary Resistive Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. PP. 1-1. 10.1109/TCAD.2019.2927520. (中国计算机学会推荐A类国际期刊，SCI检索)
 
 ## Honor
+- 2021/02. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
 - 2020/12. Excellent Employees Award@Sangfor Technologies Inc.
