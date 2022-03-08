@@ -2,9 +2,9 @@
 
 ## Biography
 - 2019.7-now. `Research and development expert in cloud computing`@_Sangfor Technologies Inc_. 
-- 2019.7-2021.12. `Postdoc in Computer Science and Technology`@_SIAT, Chinese Academy of Sciences_.
-- 2014.9-2019.6. `Ph.D. degree in Computer Science and Technology`@_武汉光电国家实验室, HUST_.
-- 2010.9-2014.6. `B.E. degree in Computer Science and Technology`@_计算机创新实验班, HUST_.
+- 2019.7-2021.12. `Postdoc in computer science and technology`@_SIAT, Chinese Academy of Sciences_.
+- 2014.9-2019.6. `Ph.D. degree in computer science and technology`@_武汉光电国家实验室, HUST_.
+- 2010.9-2014.6. `B.E. degree in computer science and technology`@_计算机创新实验班, HUST_.
 
 ## Publications
 1. **Yang Zhang**, Dan Feng, Jingning Liu, Wei Tong, Bing Wu and Caihua Fang. A Novel ReRAM-based Main Memory Structure for Optimizing Access Latency and Reliability. 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC). Austin, TX, USA: ACM, June 18-22, 2017, 1-6. (中国计算机学会推荐A类国际会议，EI检索)
@@ -27,8 +27,10 @@
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
 - 2020/12. Excellent Employees Award@Sangfor Technologies Inc.
 - 2019/06. Outstanding PhD graduates@HUST.
+- 2019/05. Oral presentation@Santa Clara, California.
 - 2019/01. National Optoelectronics Laboratory Scholarship@HUST.
 - 2018/10. Zhixing First Class Scholarship@HUST.
 - 2018/01. Research Star@HUST.
 - 2017/10. Zhixing Second Class Scholarship@HUST.
+- 2017/06. Oral presentation@Austin, Texas.
 - 2014-2019. Full PhD Scholarship.
