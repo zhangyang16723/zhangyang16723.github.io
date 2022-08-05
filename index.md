@@ -1,5 +1,5 @@
 ## Yang Zhang's Homepage
-![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) **Yang zhang**，PhD in computer science and technology (advised by Prof. Dan Feng), **Wuhan National Laboratory for Optoelectronics (WNLO)**, **Huazhong University of Science and Technology(HUST)**. 
+![](https://raw.githubusercontent.com/zhangyang16723/zhangyang16723.github.io/gh-pages/zy.jpg) **Yang zhang**，PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. 
 
 Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 
