@@ -1,5 +1,5 @@
 ## Yang Zhang's Homepage
-![](./zy.jpg) **Yang Zhang**，PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. I'm currently a research and development expert in cloud computing at Sangfor Technologies Inc.
+![](./zy.jpg) **Yang Zhang**，PhD in computer science and technology (advised by **Prof. Dan Feng**), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. I'm currently a research and development expert in cloud computing at Sangfor Technologies Inc. My research interests include computer architecture, cloud computing, distributed storage systems, non-volatile memory, and intelligent storage technology.
 
 Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 
@@ -7,7 +7,7 @@ Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 - 2019.7-now. `Research and development expert in cloud computing`@_Sangfor Technologies Inc_. 
 - 2019.7-2021.12. `Postdoc in computer science and technology`@_SIAT, Chinese Academy of Sciences_.
 - 2014.9-2019.6. `Ph.D. degree in computer science and technology`@_WNLO, HUST_.
-- 2010.9-2014.6. `B.E. degree in computer science and technology`@_Innovation Class, HUST_.
+- 2010.9-2014.6. `B.E. degree in computer science and technology`@_Computer Innovation Class, HUST_.
 
 ## Publications
 1. **Yang Zhang**, Dan Feng, Jingning Liu, Wei Tong, Bing Wu and Caihua Fang. A Novel ReRAM-based Main Memory Structure for Optimizing Access Latency and Reliability. 2017 54th ACM/EDAC/IEEE Design Automation Conference (DAC). Austin, TX, USA: ACM, June 18-22, 2017, 1-6. (**CCF A，EI**)
