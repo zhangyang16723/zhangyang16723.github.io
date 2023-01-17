@@ -1,5 +1,5 @@
 ## Yang Zhang's Homepage
-![](./zy.jpg) **Yang zhang**，PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. Now I am a research and development expert in cloud computing at Sangfor Technologies Inc.
+![](./zy.jpg) **Yang Zhang**，PhD in computer science and technology (advised by Prof. Dan Feng), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. I'm currently a research and development expert in cloud computing at Sangfor Technologies Inc.
 
 Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 
