@@ -1,5 +1,5 @@
 ## Yang Zhang's Homepage
-![](./zy.jpg) **Yang Zhang**，PhD in computer science and technology (advised by **Prof. Dan Feng**), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. I'm currently a research and development expert in cloud computing at Sangfor Technologies Inc. My research interests include computer architecture, cloud computing, distributed storage systems, non-volatile memory, and intelligent storage technology.
+![](./zy.jpg) **Yang Zhang**，PhD in computer science and technology (advised by **Prof. Dan Feng**), Wuhan National Laboratory for Optoelectronics (WNLO), **Huazhong University of Science and Technology(HUST)**. I'm currently a research and development expert in cloud computing at Sangfor Technologies Inc. My research interests include computer architecture, cloud computing, distributed storage systems, non-volatile memory, intelligent storage technologies and LLM technologies. At sangfor, I previously focused on distributed storage systems and intelligent storage technologies. And now I am an expert in LLM technologies, responsible for the **Sales Agent project**, a universal chatbot with sales logics to assist real salesmen.
 
 Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 
@@ -25,6 +25,8 @@ Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 12. Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, **Yang Zhang**. (2019). A Low Power Reconfigurable Memory Architecture for Complementary Resistive Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. PP. 1-1. 10.1109/TCAD.2019.2927520. (CCF A，SCI)
 
 ## Honor
+- 2025/01. Excellent Employees Award@Sangfor Technologies Inc.
+- 2024/10. Technology Breakthrough Award in Sales Agent project.
 - 2022/02. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
