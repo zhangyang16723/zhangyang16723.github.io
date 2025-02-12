@@ -26,7 +26,8 @@ Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 
 ## Honor
 - 2025/01. Excellent Employees Award@Sangfor Technologies Inc.
-- 2024/09. Technology Breakthrough Award in Sales Agent project.
+- 2024/09. Technology Breakthrough Award in Sales Agent project@Sangfor Technologies Inc.
+- 2023/12. Annual Innovation Grand Prize@Sangfor Technologies Inc. (bonus:3000000rmb)
 - 2022/02. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
