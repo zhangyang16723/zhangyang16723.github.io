@@ -25,14 +25,14 @@ Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 12. Bing Wu, Dan Feng, Wei Tong, Jingning Liu, Chengning Wang, Wei Zhao, **Yang Zhang**. (2019). A Low Power Reconfigurable Memory Architecture for Complementary Resistive Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. PP. 1-1. 10.1109/TCAD.2019.2927520. (CCF A，SCI)
 
 ## Honor
-- 2025/01. Excellent Employees Award@Sangfor Technologies Inc.
+- 2025/01. Annual Excellent Employees Award@Sangfor Technologies Inc.
 - 2024/09. Technology Breakthrough Award in Sales Agent project@Sangfor Technologies Inc.
 - 2023/12. Annual Innovation Grand Prize@Sangfor Technologies Inc. (bonus:3000000rmb)
 - 2023/02. Annual Innovation Second Prize@Sangfor Technologies Inc. (bonus: 12 months' salary)
-- 2022/02. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
+- 2022/01. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
+- 2021/02. Annual Excellent Employees Award@Sangfor Technologies Inc.
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
-- 2020/12. Excellent Employees Award@Sangfor Technologies Inc.
 - 2019/06. Outstanding PhD graduates@HUST.
 - 2019/05. Oral presentation@Santa Clara, California, USA.
 - 2019/01. National Optoelectronics Laboratory Scholarship@HUST.
