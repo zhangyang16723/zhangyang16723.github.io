@@ -28,15 +28,16 @@ Email:youngzhang@hust.edu.cn, zhangyang16723@sangfor.com.cn.
 - 2025/01. Excellent Employees Award@Sangfor Technologies Inc.
 - 2024/09. Technology Breakthrough Award in Sales Agent project@Sangfor Technologies Inc.
 - 2023/12. Annual Innovation Grand Prize@Sangfor Technologies Inc. (bonus:3000000rmb)
+- 2023/02. Annual Innovation Second Prize@Sangfor Technologies Inc. (bonus: 12 months' salary)
 - 2022/02. Annual Third Quality Award for HCI(Hyper-Converged Infrastructure)@Sangfor Technologies Inc. (bonus:80000rmb)
 - 2021/12. Gold Medal for Innovation Award@Sangfor Technologies Inc.
 - 2020/12. Excelsior Developer Award@Sangfor Technologies Inc.
 - 2020/12. Excellent Employees Award@Sangfor Technologies Inc.
 - 2019/06. Outstanding PhD graduates@HUST.
-- 2019/05. Oral presentation@Santa Clara, California.
+- 2019/05. Oral presentation@Santa Clara, California, USA.
 - 2019/01. National Optoelectronics Laboratory Scholarship@HUST.
 - 2018/10. Zhixing First Class Scholarship@HUST.
 - 2018/01. Research Star@HUST.
 - 2017/10. Zhixing Second Class Scholarship@HUST.
-- 2017/06. Oral presentation@Austin, Texas.
+- 2017/06. Oral presentation@Austin, Texas, USA.
 - 2014-2019. Full PhD Scholarship.
